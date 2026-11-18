@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d1a36"/><stop offset="1" stop-color="#d9622b"/></linearGradient>
+<linearGradient id="gd" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="1" stop-color="#e0a21f"/></linearGradient></defs>
+<rect width="512" height="512" rx="96" fill="url(#bg)"/>
+<circle cx="256" cy="256" r="214" fill="none" stroke="#ffd86b" stroke-width="8" opacity=".85"/>
+<circle cx="380" cy="132" r="40" fill="#ffd86b" opacity=".9"/>
+<path d="M92 372 L92 250 Q92 196 150 190 L362 190 Q420 196 420 250 L420 372 Z" fill="url(#gd)"/>
+<g fill="#6d1a36">
+<path d="M118 372v-38a15 15 0 0 1 30 0v38z"/><path d="M168 372v-38a15 15 0 0 1 30 0v38z"/><path d="M218 372v-38a15 15 0 0 1 30 0v38z"/><path d="M268 372v-38a15 15 0 0 1 30 0v38z"/><path d="M318 372v-38a15 15 0 0 1 30 0v38z"/><path d="M368 372v-38a15 15 0 0 1 30 0v38z"/>
+<path d="M118 318v-34a15 15 0 0 1 30 0v34z"/><path d="M168 318v-34a15 15 0 0 1 30 0v34z"/><path d="M218 318v-34a15 15 0 0 1 30 0v34z"/><path d="M268 318v-34a15 15 0 0 1 30 0v34z"/><path d="M318 318v-34a15 15 0 0 1 30 0v34z"/><path d="M368 318v-34a15 15 0 0 1 30 0v34z"/>
+<path d="M118 264v-26a15 15 0 0 1 30 0v26z"/><path d="M168 264v-26a15 15 0 0 1 30 0v26z"/><path d="M218 264v-26a15 15 0 0 1 30 0v26z"/><path d="M268 264v-26a15 15 0 0 1 30 0v26z"/><path d="M318 264v-26a15 15 0 0 1 30 0v26z"/><path d="M368 264v-26a15 15 0 0 1 30 0v26z"/>
+</g>
+<rect x="76" y="372" width="360" height="22" rx="6" fill="#ffd86b"/>
+<text x="256" y="452" text-anchor="middle" font-family="Georgia,serif" font-weight="700" font-size="46" fill="#ffd86b" letter-spacing="8">ROMA</text>
+</svg>
